@@ -19,7 +19,7 @@ So that normal sequence based NLP models can be used.
 # What can NLP bring to Algera?
 ## NLP can make Algera more experience based.
 ## NLP can be fast
-Use NLP to solve Marh.
+Use NLP to solve Math.
 
 # In short, Algera makes NLP more clever, from Arithmetic to Algera.
 

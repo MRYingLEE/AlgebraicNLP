@@ -14,6 +14,8 @@ Directional offered operation, unordered
 ### Parameters can make the syntax tree more general.
 So that NLP can deal with all specific values with one template. At the same time, the training size is shrinked greatly. In other words, there are much less for the model to memorize.
 
+(At the same time, there is a corresponding model problem. All the parameters are positional to the other parts, but the order of parameters in the parameters are meaningless. for example, ax+b has the same structure as bx+a. All permutation possibilities for the parameters can be used to train the model, but I still has no idea to model this feature efficiently.)
+
 ### Prefix or postfix can turn the syntax tree into a sequence.
 So that normal sequence based NLP models can be used.
 

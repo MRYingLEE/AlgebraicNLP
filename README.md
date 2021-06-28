@@ -24,4 +24,4 @@ Use NLP to solve Math.
 # In short, Algera makes NLP more clever, from Arithmetic to Algera.
 
 # An experiment is to solve a Symbolic Math prolem, Integral specifically.
-I am working on it and hope I can finish it in 1 or 2 week.
+I am working on it in my spare time and hope I can finish it in 1 or 2 month.

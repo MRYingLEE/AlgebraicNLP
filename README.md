@@ -11,6 +11,11 @@ Semi-structured data is hard to describe and process.
 Structured NLP ( Syntax Tree, RegEX, Symbolic Math)
 Directional offered operation, unordered
 
+### Syntax tree can be treated as a tree of syntax tree.
+So that the learning can be symplified.
+
+For example, The integral of f(x)+g(x) = the integral of f(x) + the integral of g(x).
+
 ### Parameters can make the syntax tree more general.
 So that NLP can deal with all specific values with one template. At the same time, the training size is shrinked greatly. In other words, there are much less for the model to memorize.
 
@@ -28,3 +33,10 @@ Use NLP to solve Math.
 
 # An experiment is to solve a Symbolic Math problem, Integral specifically.
 I am working on it in my spare time and hope I can finish it in 1 or 2 month.
+
+## What I have learnt?
+
+
+
+To train a new model for the specific symbolic mathematical problem (Integral indeed) is very slow. I used to take one week to train the model from the scratch and only got a 70% accuracy, which is not acceptable.
+
